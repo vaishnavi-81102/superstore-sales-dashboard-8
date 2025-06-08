@@ -1,0 +1,4 @@
+1. The West region had the highest overall sales.
+2. December shows the highest monthly sales peak across all regions.
+3. The Technology category generates the most profit despite fewer sales than Furniture.
+4. California and New York are the top-performing states in both sales and profit.
